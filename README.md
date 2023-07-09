@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Feature](#feature)
+- [Features](#features)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -32,7 +32,7 @@ Users should be able to:
 
 - [Live Site URL](https://mhmd-ashif.github.io/FEM-productcard)
 
-## Feature
+## Features
 
 - Minimalistic and modern design
 - Responsive layout for optimal viewing on various devices
