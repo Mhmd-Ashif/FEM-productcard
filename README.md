@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- DEMO - [Live Site URL](https://mhmd-ashif.github.io/FEM-productcard)
+- - [Live Site URL](https://mhmd-ashif.github.io/FEM-productcard)
 
 ## Feature
 
